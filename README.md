@@ -1,2 +1,2 @@
 # huzaifa-khan
-this is my first repositary
+this is my first git repositary
